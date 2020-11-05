@@ -1,0 +1,2 @@
+# rekognition
+Rekognition DetectText
